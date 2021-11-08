@@ -1,1 +1,3 @@
-# App4SHM_Releases
+# App4SHM
+
+Smartphone application for structural health monitoring
